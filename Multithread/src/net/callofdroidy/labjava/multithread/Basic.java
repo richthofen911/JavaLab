@@ -33,7 +33,7 @@ class Summation implements Runnable{
     }
 }
 
-public class Driver {
+public class Basic {
     public static void main(String[] args){
         int upper = 5;
         Sum sum = new Sum();
