@@ -45,6 +45,5 @@ public class MySemaphore extends Thread{
         while(!executorService.isTerminated()){
             continue;
         }System.out.println("all 10 people have used the washroom, clean up time");
-
     }
 }
