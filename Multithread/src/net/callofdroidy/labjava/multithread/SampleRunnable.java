@@ -2,6 +2,12 @@ package net.callofdroidy.labjava.multithread;
 
 /**
  * Created by admin on 05/08/15.
+ *
+ * Thread class is like a shell while Runnable interface is the actual content entity which
+ * is used for Thread constructor
+ * The simplest way is new Thread(new Runnable({}));
+ * but create a classA implementing Runnable interface and use new Thread(new ClassA)
+ * can do more complicated task
  */
 
 class Sum {
@@ -33,7 +39,7 @@ class Summation implements Runnable{
     }
 }
 
-public class Basic {
+public class SampleRunnable {
     public static void main(String[] args){
         int upper = 5;
         Sum sum = new Sum();
