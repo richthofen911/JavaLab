@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLab.iml" filepath="$PROJECT_DIR$/.idea/JavaLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabJava.iml" filepath="$PROJECT_DIR$/LabJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LabJava_main.iml" group="LabJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LabJava_test.iml" group="LabJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labmultithreading.iml" filepath="$PROJECT_DIR$/.idea/modules/labmultithreading.iml" group="labmultithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labmultithreading/labmultithreading_main.iml" filepath="$PROJECT_DIR$/.idea/modules/labmultithreading/labmultithreading_main.iml" group="labmultithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/labmultithreading/labmultithreading_test.iml" filepath="$PROJECT_DIR$/.idea/modules/labmultithreading/labmultithreading_test.iml" group="labmultithreading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-threading/multi-threading.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-threading/multi-threading.iml" group="multi-threading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/try/try.iml" filepath="$PROJECT_DIR$/.idea/modules/try/try.iml" group="try" />
     </modules>
   </component>
 </project>
